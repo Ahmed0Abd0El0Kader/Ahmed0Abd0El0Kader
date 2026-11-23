@@ -1,41 +1,34 @@
-<h2 align="left">Hi 👋! My name is Ahmed Abdelkader and I'm a Backend Developer</h2>
+# Ahmed Abdelkader
 
-###
+### Python Backend Developer | Django
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+I build Django applications, REST APIs, payment integrations, and real-time workflows. My work includes backend security, database performance, and multi-tenant systems.
 
-###
+Open to Python/Django backend opportunities in Egypt and remotely.
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+## Core stack
 
-###
+- **Backend:** Python, Django, Django REST Framework, Django Channels
+- **Data & authentication:** PostgreSQL, MySQL, SQLite, JWT, OAuth2, role-based access control
+- **Deployment:** Docker, AWS, DigitalOcean, Gunicorn, Nginx, Daphne
+- **Integrations:** Payment gateways, external APIs, and real-time application workflows
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+## Experience
 
-###
+- **Niram:** End-to-end backend development, performance optimization, and security improvements. Contributed to a 32% improvement in the company website's loading speed.
+- **Dracode Software House:** Delivered 15+ REST APIs across 3 production products and reduced API response time by 40% through query optimization.
+- **Freelance:** Occasional client projects alongside employed roles, including documented APIs, payment integrations, and backend improvements.
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+## Public repositories
 
-###
+- [MealsRater_API](https://github.com/Ahmed0Abd0El0Kader/MealsRater_API)
+- [CienemaTicketsReservation_API](https://github.com/Ahmed0Abd0El0Kader/CienemaTicketsReservation_API)
+- [Real-time video filtering with OpenCV](https://github.com/Ahmed0Abd0El0Kader/Real-Time-Video-Filtering-with-Webcam-using-OpenCV)
 
-<br clear="both">
+## Currently learning
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+Odoo technical and functional development through Odoo Ninja, currently at the beginner stage. My current job focus is Python/Django backend development.
 
-###
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/ahmedabdel-kader)
