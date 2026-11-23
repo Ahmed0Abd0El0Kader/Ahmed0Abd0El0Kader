@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Ahmed Abdelkader, Python Backend Developer, Django and REST APIs">
+<rect width="1200" height="320" rx="24" fill="#f4efec"/>
+<rect x="24" y="24" width="1152" height="272" rx="18" fill="#ffffff"/>
+<rect x="58" y="62" width="7" height="194" rx="3" fill="#73a89a"/>
+<text x="90" y="94" fill="#585254" font-family="Arial, sans-serif" font-size="16" letter-spacing="4">PYTHON / DJANGO / REST APIs</text>
+<text x="87" y="158" fill="#251f21" font-family="Georgia, serif" font-size="49">Ahmed Abdelkader</text>
+<text x="90" y="203" fill="#251f21" font-family="Arial, sans-serif" font-size="25">Python Backend Developer</text>
+<text x="90" y="244" fill="#585254" font-family="Arial, sans-serif" font-size="18">APIs · Integrations · Real-time workflows</text>
+<path d="M878 160H922M1018 160H1062" stroke="#73a89a" stroke-width="4"/>
+<rect x="790" y="116" width="88" height="88" rx="18" fill="#f4efec"/>
+<path d="M820 145l-15 15 15 15m28-30 15 15-15 15m-12-38-7 46" stroke="#251f21" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="922" y="116" width="96" height="88" rx="18" fill="#73a89a"/>
+<text x="940" y="169" fill="#251f21" font-family="Arial, sans-serif" font-size="25" font-weight="bold">API</text>
+<rect x="1062" y="116" width="74" height="88" rx="18" fill="#f4efec"/>
+<ellipse cx="1099" cy="144" rx="20" ry="8" fill="none" stroke="#251f21" stroke-width="3"/>
+<path d="M1079 144v34c0 11 40 11 40 0v-34m-40 17c0 11 40 11 40 0" fill="none" stroke="#251f21" stroke-width="3"/>
+<text x="801" y="236" fill="#585254" font-family="Arial, sans-serif" font-size="13" letter-spacing="2">CODE</text>
+<text x="941" y="236" fill="#585254" font-family="Arial, sans-serif" font-size="13" letter-spacing="2">BUILD</text>
+<text x="1071" y="236" fill="#585254" font-family="Arial, sans-serif" font-size="13" letter-spacing="2">DATA</text>
+</svg>
